@@ -4,7 +4,6 @@
 
 ### Join Membership
 ```
-
 [URL]
 ../api/join_ex
 
@@ -21,11 +20,9 @@ affiliation (string(255))
 department (string(255))
 position (string(255))
 terms (string(-))
-
 ```
 
 ## Market
 ```
 to be continued..🎁🎁🎁
-
 ```
