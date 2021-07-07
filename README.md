@@ -42,6 +42,17 @@ country (string(100))
 to (string(255))
 ```
 
+### 3. Cert - Mail
+```
+[URL]
+../api/cert_mail_ex
+
+[POST]
+country (string(100))
+to (string(255))
+name (string(255))
+```
+
 ## Market
 ```
 to be continued..🎁🎁🎁
