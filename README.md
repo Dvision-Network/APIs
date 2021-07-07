@@ -32,7 +32,7 @@ account (string(255))
 password (string(255))
 ```
 
-### 3. Cert - SMS
+### 3-1. Cert - SMS
 ```
 [URL]
 ../api/cert_sms_ex
@@ -42,7 +42,7 @@ country (string(100))
 to (string(255))
 ```
 
-### 3. Cert - Mail
+### 3-2. Cert - Mail
 ```
 [URL]
 ../api/cert_mail_ex
