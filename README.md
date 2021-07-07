@@ -32,7 +32,7 @@ account (string(255))
 password (string(255))
 ```
 
-### 3. Cert - SMS
+### 3-1. Cert - SMS
 ```
 [URL]
 ../api/cert_sms_ex
@@ -40,6 +40,17 @@ password (string(255))
 [POST]
 country (string(100))
 to (string(255))
+```
+
+### 3-2. Cert - Mail
+```
+[URL]
+../api/cert_mail_ex
+
+[POST]
+country (string(100))
+to (string(255))
+name (string(255))
 ```
 
 ## Market
