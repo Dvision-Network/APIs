@@ -53,6 +53,16 @@ to (string(255))
 name (string(255))
 ```
 
+### 4. Check Cert
+```
+[URL]
+../api/check_cert_ex
+
+[POST]
+to (string(255))
+cert (string(255))
+```
+
 ## Market
 ```
 to be continued..🎁🎁🎁
