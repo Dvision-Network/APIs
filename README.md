@@ -63,6 +63,16 @@ to (string(255))
 cert (string(255))
 ```
 
+### 5. Find Accout
+```
+[URL]
+../api/account_find_ex
+
+[POST]
+phone (string(255))
+name (string(255))
+```
+
 ## Market
 ```
 to be continued..🎁🎁🎁
