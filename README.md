@@ -73,6 +73,17 @@ phone (string(255))
 name (string(255))
 ```
 
+### 6. Password_Tmp
+```
+[URL]
+../api/password_tmp_ex
+
+[POST]
+country (string(100))
+account (string(255))
+phone (string(255))
+```
+
 ## Market
 ```
 to be continued..🎁🎁🎁
