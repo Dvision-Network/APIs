@@ -84,6 +84,18 @@ account (string(255))
 phone (string(255))
 ```
 
+### 7. Change Password
+```
+[URL]
+../api/password_reset_ex
+
+[POST]
+phone (string(255))
+account (string(255))
+prev_password (string(255))
+password (string(255))
+```
+
 ## Market
 ```
 to be continued..🎁🎁🎁
