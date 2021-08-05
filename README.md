@@ -96,6 +96,17 @@ prev_password (string(255))
 password (string(255))
 ```
 
+### 7. Get Post List
+```
+[URL]
+../api/post_get_list_ex
+
+[POST]
+type (int(1))
+page (int(11))
+count (int(11))
+```
+
 ## Market
 ```
 to be continued..🎁🎁🎁
