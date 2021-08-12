@@ -107,6 +107,15 @@ page (int(11))
 count (int(11))
 ```
 
+### 8. Get Post By Id
+```
+[URL]
+../api/post_get_by_id_ex
+
+[POST]
+id (int(11))
+```
+
 ## Market
 ```
 to be continued..🎁🎁🎁
