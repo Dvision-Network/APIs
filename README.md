@@ -116,6 +116,21 @@ count (int(11))
 id (int(11))
 ```
 
+### 9. Insert Post
+```
+[URL]
+../api/post_insert_ex
+
+[POST]
+category (int(1))
+title (string(255))
+detail (string(255))
+thumbnail (string(255))
+popup (int(1))
+ext_link (string(255))
+footer_list_id (int(5))
+```
+
 ## Market
 ```
 to be continued..🎁🎁🎁
