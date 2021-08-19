@@ -116,7 +116,7 @@ count (int(11))
 id (int(11))
 ```
 
-### 9. Insert Post 
+### 9. Insert Post
 ```
 [URL]
 ../api/post_insert_ex
