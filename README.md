@@ -148,6 +148,16 @@ footer_list_id (int(5))
 
 ```
 
+### 11. Delete Post
+```
+[URL]
+../api/post_delete_ex
+
+[POST]
+id(int(11))
+
+```
+
 ## Market
 ```
 to be continued..🎁🎁🎁
