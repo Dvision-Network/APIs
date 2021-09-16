@@ -154,7 +154,7 @@ footer_list_id (int(5))
 ../api/post_delete_ex
 
 [POST]
-id(int(11)) 
+id(int(11))
 
 ```
 
